@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3567096c.chunk.css",
+    "main.js": "/static/js/main.9981b9a4.chunk.js",
+    "main.js.map": "/static/js/main.9981b9a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ad62e09.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ad62e09.js.map",
+    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
+    "static/js/2.928124f3.chunk.js": "/static/js/2.928124f3.chunk.js",
+    "static/js/2.928124f3.chunk.js.map": "/static/js/2.928124f3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d608f38875cf4f596285693d3fff635e.js": "/precache-manifest.d608f38875cf4f596285693d3fff635e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
+    "static/css/main.3567096c.chunk.css.map": "/static/css/main.3567096c.chunk.css.map",
+    "static/media/about-purplehaze.png": "/static/media/about-purplehaze.15c4c687.png",
+    "static/media/being-soraya.jpg": "/static/media/being-soraya.f474cc26.jpg",
+    "static/media/full.jpg": "/static/media/full.d8ce01a4.jpg",
+    "static/media/qiworks.png": "/static/media/qiworks.14e95f49.png",
+    "static/media/thumb.jpg": "/static/media/thumb.708a81e2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad62e09.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.928124f3.chunk.js",
+    "static/css/main.3567096c.chunk.css",
+    "static/js/main.9981b9a4.chunk.js"
+  ]
+}
